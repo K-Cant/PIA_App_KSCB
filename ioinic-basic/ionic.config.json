@@ -1,0 +1,7 @@
+{
+  "name": "ioinic-basic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
